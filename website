@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial portfolio website - Rilwan Olunlade"
+git remote add origin https://github.com/Rills2hip/rilwan-portfolio.git
+git branch -M main
+git push -u origin main
